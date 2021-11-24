@@ -7,3 +7,4 @@
 5. Untuk menghubungkan ke database lihat file Detect.py, untuk melihat database yang telah dibangun lihat file data_mahasiswa.sql
 6. Tampilan web dapat dilihat pada file web.rar
 7. Saran dan masukan dapat disampaikan ke email dita.isnayni15@gmail.com
+![image](https://user-images.githubusercontent.com/22748435/143197807-005bb98a-d1a0-4e63-ba68-5b8d17afa4c8.png)
